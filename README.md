@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=Jarin%20Akther&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%7C%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descAlignY=60&descColor=aaaaaa&animation=fadeIn" alt="header"/>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Jarin Akther
+
+**Aspiring Data Analyst** · Python · SQL · Power BI · Tableau
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jarin-akther-analyst)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
