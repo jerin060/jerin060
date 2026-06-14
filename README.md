@@ -2,40 +2,37 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Jarin Akther
 
-**Aspiring Data Analyst** · Python · SQL · Power BI · Tableau
+### Aspiring Data Analyst & MIS Executive | Python | SQL | Advanced Excel | Power BI  | Tableau
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jarin-akther-analyst)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jerin060)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jarinakther.analytics@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
 
 </div>
 
 ---
 
-## 👤 About Me
+## 🧑‍💼 About Me
 
-- 🎯 Currently learning **data analytics** with a focus on real-world applications
-- 🛠️ Skilled in **Python, SQL, Power BI & Tableau** — turning raw data into clear insights
-- 🤖 Exploring **machine learning** fundamentals — regression, classification & clustering
-- 📁 All of my projects are available on my **portfolio** & GitHub
-- 🤝 Open to **collaborations** on data analysis and visualization projects
-- ⚡ Fun fact: I find more satisfaction in a **clean query** than a clean room 🧹
+**Data Analytics** enthusiast with practical experience in data analysis, visualization, and business intelligence projects. Skilled in Python, SQL, Power BI, and Tableau, I build dashboards and analytical solutions that convert complex datasets into clear, actionable insights. My work focuses on **sales analytics**, **customer analysis**, **KPI reporting**, and **data-driven problem solving**.
+
 
 ---
 
 ## 🚀 Projects
 
-| Project | Tools | Link |
+| 🚀 Project | 🛠️ Tools | 🔗 Link |
 |---|---|---|
-| 📊 Sales Performance Dashboard | Power BI · SQL · Power Query | [View](#) |
-| 🔮 Customer Churn Prediction | Python · Scikit-learn · Pandas | [View](#) |
-| 📈 Revenue Trend Analysis | Python · Matplotlib · Excel | [View](#) |
-| 🗃️ SQL Data Cleaning Pipeline | SQL · PostgreSQL | [View](#) |
-| 📉 Customer Segmentation | Python · K-Means · Seaborn | [View](#) |
-| 📋 Tableau KPI Dashboard | Tableau · Excel | [View](#) |
+| 📊 **Retail Analytics Data Warehouse & Business Intelligence Dashboard** | SQL · Power BI | [View](https://github.com/jerin060/Data-Warehouse-Analysis.git) |
+| 🔮 **Customer Churn Prediction** | Python · Scikit-learn · Pandas | [View](#) |
+| 📈 **Revenue Trend Analysis** | Python · Matplotlib · Excel | [View](#) |
+| 🗃️ **SQL Data Cleaning Pipeline** | SQL · PostgreSQL | [View](#) |
+| 📉 **Customer Segmentation** | Python · K-Means · Seaborn | [View](#) |
+| 📋 **Tableau KPI Dashboard** | Tableau · Excel | [View](#) |
 
 ---
+
 
 ## 🛠️ Skills & Tools
 
@@ -84,28 +81,9 @@
 ## 🌟 Leadership
 
 **Secretary (Publications)** · NDUB Computer Club · *2023 – 2024*
-Managed website content, meeting minutes & event coordination
+Created and managed event reports, announcements, and digital content for club programs, collaborating with faculty, sponsors, and executive members.
+Maintained publication records and contributed published writing featured in *The Daily Star*.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/jerin060">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jerin060&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerin060&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</a>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jerin060&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jerin060&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
