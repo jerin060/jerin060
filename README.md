@@ -28,7 +28,7 @@
 | 🔮 **Customer Churn Prediction** | Python · Scikit-learn · Pandas | [View](#) |
 | 📈 **Revenue Trend Analysis** | Python · Matplotlib · Excel | [View](#) |
 | 🗃️ **SQL Data Cleaning Pipeline** | SQL · PostgreSQL | [View](#) |
-| 📉 **Uber-Ride-Analysis-PowerBI-Dashboard** | Power Query · DAX · Power Bi | [View]([#](https://github.com/jerin060/Uber-Ride-Analysis-PowerBI-Dashboard.git)) |
+| 📉 **Uber-Ride-Analysis-PowerBI-Dashboard** | Power Query · DAX · Power Bi | [View](https://github.com/jerin060/Uber-Ride-Analysis-PowerBI-Dashboard.git) |
 | 📋 **Tableau KPI Dashboard** | Tableau · Excel | [View](#) |
 
 ---
