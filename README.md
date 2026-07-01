@@ -27,7 +27,7 @@
 | 📊 **Retail Analytics Data Warehouse & Business Intelligence Dashboard** | SQL · Power BI | [View](https://github.com/jerin060/Data-Warehouse-Analysis.git) |
 | 🔮 **Customer Churn Prediction** | Python · Scikit-learn · Pandas | [View](#) |
 | 📈 **Inventory & Supply Chain Analysis** | Python · Matplotlib · Excel | [View](#) |
-| 🗃️ **SQL Data Cleaning Pipeline** | SQL · PostgreSQL | [View](#) |
+| 🗃️ **Human Resource Analytics Dashboard-Tableau** | SQL · Tableau | [View](https://github.com/jerin060/Human-Resource-Analytics-Dashboard-Tableau.git) |
 | 📉 **Uber Ride Analysis** | Power Query · DAX · Power Bi | [View](https://github.com/jerin060/Uber-Ride-Analysis-PowerBI-Dashboard.git) |
 | 📋 **Tableau KPI Dashboard** | Tableau · Excel | [View](#) |
 
